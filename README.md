@@ -22,19 +22,6 @@
 
 ## 🚀 About Me
 
-```javascript
-const nivetha = {
-    role: "Full-Stack Developer",
-    education: "B.E. Computer Science and Engineering, 2024 – 2028",
-    institution: "Bannari Amman Institute of Technology",
-    currentlyBuilding: "Veliora — a full-stack project built from the ground up",
-    currentlyLearning: ["React.js", "Advanced Firebase", "SQL"],
-    designTool: "Figma",
-    stack: ["JavaScript", "Node.js", "Firebase", "MongoDB", "HTML5", "CSS3"],
-    philosophy: "Design it in Figma, then ship it in code.",
-};
-```
-
 - 🎓 Third-year **Computer Science and Engineering** undergraduate at Bannari Amman Institute of Technology
 - 🛠️ I use **Figma** to design the interface first, then build it myself end-to-end as a **full-stack developer**
 - 🌱 Independently architected and deployed **SkillVault**, a full-stack platform live in production
