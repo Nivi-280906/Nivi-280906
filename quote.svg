@@ -1,0 +1,10 @@
+<svg width="800" height="90" viewBox="0 0 800 90" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="800" height="90" rx="12" fill="#132018"/>
+  <rect x="0" y="0" width="6" height="90" fill="#7CFFB2"/>
+  <text x="400" y="40" font-family="Georgia, serif" font-style="italic" font-size="18" fill="#7CFFB2" text-anchor="middle">
+    "I design my products in Figma before I write
+  </text>
+  <text x="400" y="65" font-family="Georgia, serif" font-style="italic" font-size="18" fill="#7CFFB2" text-anchor="middle">
+    a single line of code for them."
+  </text>
+</svg>
