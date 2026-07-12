@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Nivetha K 👋</h1>
-
-<h3 align="center">Full-Stack Developer</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1a3a2e&height=180&section=header&text=Hi,%20I'm%20Nivetha%20K%20%F0%9F%91%8B&fontSize=38&fontColor=7CFFB2&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer&descAlignY=62&descSize=18&descColor=c9d1d9" width="100%" />
+</p>
 
 <p align="center">
   <b>I design in Figma and ship in code.</b>
@@ -22,24 +22,14 @@
 
 ## 🚀 About Me
 
-```javascript
-const nivetha = {
-    role: "Full-Stack Developer",
-    education: "B.E. Computer Science and Engineering, 2024 – 2028",
-    institution: "Bannari Amman Institute of Technology",
-    currentlyBuilding: "Veliora — a full-stack project built from the ground up",
-    currentlyLearning: ["React.js", "Advanced Firebase", "SQL"],
-    designTool: "Figma",
-    stack: ["JavaScript", "Node.js", "Firebase", "MongoDB", "HTML5", "CSS3"],
-    philosophy: "Design it in Figma, then ship it in code.",
-};
-```
 
-- 🎓 Third-year **Computer Science and Engineering** undergraduate at Bannari Amman Institute of Technology
-- 🛠️ I use **Figma** to design the interface first, then build it myself end-to-end as a **full-stack developer**
-- 🌱 Independently architected and deployed **SkillVault**, a full-stack platform live in production
-- 🔭 Currently building **Veliora**, a full-stack project
-- 🎯 Interested in Full-Stack Developer roles at product-based companies
+| | |
+|---|---|
+| 🎓 **Education** | B.E. Computer Science and Engineering (2024 – 2028), Bannari Amman Institute of Technology |
+| 🛠️ **How I Work** | Design the interface in Figma first, then build it myself end-to-end as a full-stack developer |
+| 🌱 **Live Project** | **SkillVault** — a full-stack platform, deployed and in production |
+| 🔭 **Building Now** | **Veliora** — a full-stack project built from the ground up |
+| 🎯 **Focus** | Full-Stack Developer roles at product-based companies |
 
 <br>
 
@@ -174,8 +164,11 @@ A full-stack certificate management platform with AI-powered verification and re
 
 ## 🤝 Let's Connect
 
-Feel free to reach out on any of the platforms linked above.
+<p align="center">
+  <img src="https://img.shields.io/badge/🎨_Designed_in_Figma-F24E1E?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/💻_Shipped_in_Code-7CFFB2?style=for-the-badge&logoColor=0D1117">
+</p>
 
-<br>
-
-> ### 💡 *"I design my products in Figma before I write a single line of code for them."*
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a2e,100:0D1117&height=120&section=footer" width="100%" />
+</p>
