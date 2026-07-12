@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1a3a2e&height=150&section=header&text=Hi,%20I'm%20Nivetha%20K%20%F0%9F%91%8B&fontSize=32&fontColor=7CFFB2&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Developer&descAlignY=52&descSize=16&descColor=c9d1d9" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1a3a2e&height=110&text=Hi,%20I'm%20Nivetha%20K%20%F0%9F%91%8B&fontSize=30&fontColor=7CFFB2&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20Developer&descAlignY=68&descSize=15&descColor=c9d1d9" width="100%" />
 </p>
 
 <p align="center">
@@ -173,5 +173,5 @@ A full-stack certificate management platform with AI-powered verification and re
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%22I_design_my_products_in_Figma_before_I_write_a_single_line_of_code_for_them.%22-7CFFB2?style=for-the-badge&logoColor=0D1117" alt="proverb">
+  <img src="quote.svg" alt="I design my products in Figma before I write a single line of code for them." width="600">
 </p>
