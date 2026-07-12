@@ -3,15 +3,15 @@
 <h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7CFFB2&center=true&vCenter=true&width=700&lines=I+design+in+Figma+and+ship+in+code.;Building+full-stack+products+end-to-end.;Currently+leveling+up+my+React+skills." alt="Typing SVG" />
+  <b>I design in Figma and ship in code.</b>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/nivethak28"><img src="https://img.shields.io/badge/LinkedIn-7CFFB2?style=for-the-badge&logo=linkedin&logoColor=0D1117"></a>
-  <a href="https://behance.net/nivethak28"><img src="https://img.shields.io/badge/Behance-7CFFB2?style=for-the-badge&logo=behance&logoColor=0D1117"></a>
-  <a href="https://leetcode.com/u/Nivethak280906"><img src="https://img.shields.io/badge/LeetCode-7CFFB2?style=for-the-badge&logo=leetcode&logoColor=0D1117"></a>
-  <a href="https://hackerrank.com/profile/nivethak_cs24"><img src="https://img.shields.io/badge/HackerRank-7CFFB2?style=for-the-badge&logo=hackerrank&logoColor=0D1117"></a>
-  <a href="mailto:nnivi2535@gmail.com"><img src="https://img.shields.io/badge/Email-7CFFB2?style=for-the-badge&logo=gmail&logoColor=0D1117"></a>
+  <a href="https://linkedin.com/in/nivethak28"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://behance.net/nivethak28"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"></a>
+  <a href="https://leetcode.com/u/Nivethak280906"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+  <a href="https://hackerrank.com/profile/nivethak_cs24"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
+  <a href="mailto:nnivi2535@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <p align="center">
@@ -21,6 +21,19 @@
 <br>
 
 ## 🚀 About Me
+
+```javascript
+const nivetha = {
+    role: "Full-Stack Developer",
+    education: "B.E. Computer Science and Engineering, 2024 – 2028",
+    institution: "Bannari Amman Institute of Technology",
+    currentlyBuilding: "Veliora — a full-stack project built from the ground up",
+    currentlyLearning: ["React.js", "Advanced Firebase", "SQL"],
+    designTool: "Figma",
+    stack: ["JavaScript", "Node.js", "Firebase", "MongoDB", "HTML5", "CSS3"],
+    philosophy: "Design it in Figma, then ship it in code.",
+};
+```
 
 - 🎓 Third-year **Computer Science and Engineering** undergraduate at Bannari Amman Institute of Technology
 - 🛠️ I use **Figma** to design the interface first, then build it myself end-to-end as a **full-stack developer**
@@ -70,76 +83,76 @@ A full-stack certificate management platform with AI-powered verification and re
 
 **Languages**
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-7CFFB2?style=for-the-badge&logo=python&logoColor=0D1117">
-  <img src="https://img.shields.io/badge/Java-7CFFB2?style=for-the-badge&logo=openjdk&logoColor=0D1117">
-  <img src="https://img.shields.io/badge/C-7CFFB2?style=for-the-badge&logo=c&logoColor=0D1117">
-  <img src="https://img.shields.io/badge/C%2B%2B-7CFFB2?style=for-the-badge&logo=cplusplus&logoColor=0D1117">
-  <img src="https://img.shields.io/badge/JavaScript_(ES6%2B)-7CFFB2?style=for-the-badge&logo=javascript&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript_(ES6%2B)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
 
 **Web Technologies**
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-7CFFB2?style=for-the-badge&logo=html5&logoColor=0D1117">
-  <img src="https://img.shields.io/badge/CSS3-7CFFB2?style=for-the-badge&logo=css3&logoColor=0D1117">
-  <img src="https://img.shields.io/badge/React.js-7CFFB2?style=for-the-badge&logo=react&logoColor=0D1117">
-  <img src="https://img.shields.io/badge/Responsive_Design-7CFFB2?style=for-the-badge&logo=w3c&logoColor=0D1117">
-  <img src="https://img.shields.io/badge/Mobile_First_Design-7CFFB2?style=for-the-badge&logo=googlechrome&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Responsive_Design-005A9C?style=for-the-badge&logo=w3c&logoColor=white">
+  <img src="https://img.shields.io/badge/Mobile_First_Design-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white">
 </p>
 
 **Full-Stack Development**
 <p align="left">
-  <img src="https://img.shields.io/badge/Node.js-7CFFB2?style=for-the-badge&logo=node.js&logoColor=0D1117">
-  <img src="https://img.shields.io/badge/Express.js-7CFFB2?style=for-the-badge&logo=express&logoColor=0D1117">
-  <img src="https://img.shields.io/badge/REST_APIs-7CFFB2?style=for-the-badge&logo=fastapi&logoColor=0D1117">
-  <img src="https://img.shields.io/badge/MVC_Architecture-7CFFB2?style=for-the-badge&logo=databricks&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/MVC_Architecture-FF3621?style=for-the-badge&logo=databricks&logoColor=white">
 </p>
 
 **Databases**
 <p align="left">
-  <img src="https://img.shields.io/badge/Firebase_Realtime_DB-7CFFB2?style=for-the-badge&logo=firebase&logoColor=0D1117">
-  <img src="https://img.shields.io/badge/Firebase_Auth-7CFFB2?style=for-the-badge&logo=firebase&logoColor=0D1117">
-  <img src="https://img.shields.io/badge/Cloudinary-7CFFB2?style=for-the-badge&logo=cloudinary&logoColor=0D1117">
-  <img src="https://img.shields.io/badge/MongoDB-7CFFB2?style=for-the-badge&logo=mongodb&logoColor=0D1117">
-  <img src="https://img.shields.io/badge/NoSQL-7CFFB2?style=for-the-badge&logo=mongodb&logoColor=0D1117">
-  <img src="https://img.shields.io/badge/SQL-7CFFB2?style=for-the-badge&logo=mysql&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/Firebase_Realtime_DB-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+  <img src="https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
 **Design Tools** *(used to design before I code)*
 <p align="left">
-  <img src="https://img.shields.io/badge/Figma-7CFFB2?style=for-the-badge&logo=figma&logoColor=0D1117">
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-7CFFB2?style=for-the-badge&logo=adobephotoshop&logoColor=0D1117">
-  <img src="https://img.shields.io/badge/FigJam-7CFFB2?style=for-the-badge&logo=figma&logoColor=0D1117">
-  <img src="https://img.shields.io/badge/Sketch-7CFFB2?style=for-the-badge&logo=sketch&logoColor=0D1117">
-  <img src="https://img.shields.io/badge/Zeplin-7CFFB2?style=for-the-badge&logo=zeplin&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/FigJam-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=black">
+  <img src="https://img.shields.io/badge/Zeplin-FDBD39?style=for-the-badge&logo=zeplin&logoColor=black">
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/Wireframing-7CFFB2?style=for-the-badge&logo=figma&logoColor=0D1117">
-  <img src="https://img.shields.io/badge/Hi--Fi_Prototyping-7CFFB2?style=for-the-badge&logo=figma&logoColor=0D1117">
-  <img src="https://img.shields.io/badge/User_Research-7CFFB2?style=for-the-badge&logo=googleforms&logoColor=0D1117">
-  <img src="https://img.shields.io/badge/Usability_Testing-7CFFB2?style=for-the-badge&logo=googleforms&logoColor=0D1117">
-  <img src="https://img.shields.io/badge/Design_Systems-7CFFB2?style=for-the-badge&logo=figma&logoColor=0D1117">
-  <img src="https://img.shields.io/badge/Information_Architecture-7CFFB2?style=for-the-badge&logo=figma&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/Wireframing-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Hi--Fi_Prototyping-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/User_Research-7248B9?style=for-the-badge&logo=googleforms&logoColor=white">
+  <img src="https://img.shields.io/badge/Usability_Testing-7248B9?style=for-the-badge&logo=googleforms&logoColor=white">
+  <img src="https://img.shields.io/badge/Design_Systems-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Information_Architecture-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
 **Deployment & Tools**
 <p align="left">
-  <img src="https://img.shields.io/badge/Vercel-7CFFB2?style=for-the-badge&logo=vercel&logoColor=0D1117">
-  <img src="https://img.shields.io/badge/GitHub_Pages-7CFFB2?style=for-the-badge&logo=github&logoColor=0D1117">
-  <img src="https://img.shields.io/badge/Git-7CFFB2?style=for-the-badge&logo=git&logoColor=0D1117">
-  <img src="https://img.shields.io/badge/GitHub-7CFFB2?style=for-the-badge&logo=github&logoColor=0D1117">
-  <img src="https://img.shields.io/badge/npm-7CFFB2?style=for-the-badge&logo=npm&logoColor=0D1117">
-  <img src="https://img.shields.io/badge/VS_Code-7CFFB2?style=for-the-badge&logo=visualstudiocode&logoColor=0D1117">
-  <img src="https://img.shields.io/badge/Product_Hunt-7CFFB2?style=for-the-badge&logo=producthunt&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub_Pages-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/Product_Hunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white">
 </p>
 
 **Core Concepts**
 <p align="left">
-  <img src="https://img.shields.io/badge/Data_Structures-7CFFB2?style=for-the-badge&logo=leetcode&logoColor=0D1117">
-  <img src="https://img.shields.io/badge/Algorithms-7CFFB2?style=for-the-badge&logo=leetcode&logoColor=0D1117">
-  <img src="https://img.shields.io/badge/OOP-7CFFB2?style=for-the-badge&logo=java&logoColor=0D1117">
-  <img src="https://img.shields.io/badge/Agile-7CFFB2?style=for-the-badge&logo=jira&logoColor=0D1117">
-  <img src="https://img.shields.io/badge/Design_Thinking-7CFFB2?style=for-the-badge&logo=figma&logoColor=0D1117">
-  <img src="https://img.shields.io/badge/Accessibility_(WCAG_2.1)-7CFFB2?style=for-the-badge&logo=w3c&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/Data_Structures-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+  <img src="https://img.shields.io/badge/Algorithms-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+  <img src="https://img.shields.io/badge/OOP-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+  <img src="https://img.shields.io/badge/Design_Thinking-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Accessibility_(WCAG_2.1)-005A9C?style=for-the-badge&logo=w3c&logoColor=white">
 </p>
 
 <br>
@@ -162,11 +175,11 @@ A full-stack certificate management platform with AI-powered verification and re
 ## 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/nivethak28"><img src="https://img.shields.io/badge/LinkedIn-7CFFB2?style=for-the-badge&logo=linkedin&logoColor=0D1117"></a>
-  <a href="https://behance.net/nivethak28"><img src="https://img.shields.io/badge/Behance-7CFFB2?style=for-the-badge&logo=behance&logoColor=0D1117"></a>
-  <a href="https://leetcode.com/u/Nivethak280906"><img src="https://img.shields.io/badge/LeetCode-7CFFB2?style=for-the-badge&logo=leetcode&logoColor=0D1117"></a>
-  <a href="https://hackerrank.com/profile/nivethak_cs24"><img src="https://img.shields.io/badge/HackerRank-7CFFB2?style=for-the-badge&logo=hackerrank&logoColor=0D1117"></a>
-  <a href="mailto:nnivi2535@gmail.com"><img src="https://img.shields.io/badge/Email-7CFFB2?style=for-the-badge&logo=gmail&logoColor=0D1117"></a>
+  <a href="https://linkedin.com/in/nivethak28"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://behance.net/nivethak28"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"></a>
+  <a href="https://leetcode.com/u/Nivethak280906"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+  <a href="https://hackerrank.com/profile/nivethak_cs24"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
+  <a href="mailto:nnivi2535@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <p align="center">
