@@ -22,6 +22,7 @@
 
 ## 🚀 About Me
 
+
 | | |
 |---|---|
 | 🎓 **Education** | B.E. Computer Science and Engineering (2024 – 2028), Bannari Amman Institute of Technology |
@@ -153,7 +154,7 @@ A full-stack certificate management platform with AI-powered verification and re
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nivi-280906&theme=react-dark&bg_color=0D1117&color=7CFFB2&line=7CFFB2&point=ffffff&hide_border=true&area=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nivi-280906&theme=react-dark&bg_color=0D1117&color=7CFFB2&line=7CFFB2&point=ffffff&area=true&area_color=7CFFB2&hide_border=true&radius=16&height=400&custom_title=Nivetha's%20Contribution%20Activity" />
 </p>
 
 <br>
