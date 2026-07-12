@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7CFFB2&center=true&vCenter=true&width=600&lines=I+design+in+Figma+and+ship+in+code.;Building+full-stack+products+end-to-end.;Currently+leveling+up+my+React+skills." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7CFFB2&center=true&vCenter=true&width=700&lines=I+design+in+Figma+and+ship+in+code.;Building+full-stack+products+end-to-end.;Currently+leveling+up+my+React+skills." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -96,7 +96,7 @@ A full-stack certificate management platform with AI-powered verification and re
   <img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=7CFFB2">
   <img src="https://img.shields.io/badge/React.js-0D1117?style=flat-square&logo=react&logoColor=7CFFB2">
   <img src="https://img.shields.io/badge/Responsive_Design-0D1117?style=flat-square&logo=w3c&logoColor=7CFFB2">
-  <img src="https://img.shields.io/badge/Mobile_First_Design-0D1117?style=flat-square&logo=mobile&logoColor=7CFFB2">
+  <img src="https://img.shields.io/badge/Mobile_First_Design-0D1117?style=flat-square&logo=googlechrome&logoColor=7CFFB2">
 </p>
 
 **Full-Stack Development**
@@ -152,7 +152,7 @@ A full-stack certificate management platform with AI-powered verification and re
   <img src="https://img.shields.io/badge/OOP-0D1117?style=flat-square&logo=java&logoColor=7CFFB2">
   <img src="https://img.shields.io/badge/Agile-0D1117?style=flat-square&logo=jira&logoColor=7CFFB2">
   <img src="https://img.shields.io/badge/Design_Thinking-0D1117?style=flat-square&logo=figma&logoColor=7CFFB2">
-  <img src="https://img.shields.io/badge/Accessibility_(WCAG_2.1)-0D1117?style=flat-square&logo=accessibility&logoColor=7CFFB2">
+  <img src="https://img.shields.io/badge/Accessibility_(WCAG_2.1)-0D1117?style=flat-square&logo=w3c&logoColor=7CFFB2">
 </p>
 
 <br>
@@ -169,14 +169,6 @@ A full-stack certificate management platform with AI-powered verification and re
 </p>
 
 <br>
-
-## 🌱 Currently Learning
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React.js-0D1117?style=for-the-badge&logo=react&logoColor=7CFFB2&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/Advanced_Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=7CFFB2&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=7CFFB2&labelColor=0D1117">
-</p>
 
 <br>
 
