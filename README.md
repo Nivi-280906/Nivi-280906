@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1a3a2e&height=110&text=Hi,%20I'm%20Nivetha%20K%20%F0%9F%91%8B&fontSize=30&fontColor=7CFFB2&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20Developer&descAlignY=68&descSize=15&descColor=c9d1d9" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1a3a2e&height=110&text=Hi,%20I'm%20Nivetha%20K%20%F0%9F%91%8B&fontSize=30&fontColor=A78BFA&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20Developer&descAlignY=68&descSize=15&descColor=c9d1d9" width="100%" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nivi-280906&style=for-the-badge&color=7CFFB2&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Nivi-280906&style=for-the-badge&color=A78BFA&label=Profile+Views" alt="Profile views" />
 </p>
 
 <br>
@@ -154,11 +154,15 @@ A full-stack certificate management platform with AI-powered verification and re
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nivi-280906&theme=react-dark&bg_color=0D1117&color=7CFFB2&line=7CFFB2&point=ffffff&area=true&area_color=7CFFB2&hide_border=true&radius=16&height=400&custom_title=Nivetha's%20Contribution%20Activity" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nivi-280906&theme=react-dark&bg_color=0D1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&area_color=A78BFA&hide_border=true&radius=16&height=400&custom_title=Nivetha's%20Contribution%20Activity" />
 </p>
 
 <br>
 
 <p align="center">
   <img src="quote.svg" alt="I design my products in Figma before I write a single line of code for them." width="600">
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a3a2e,100:0D1117&height=80&animation=fadeIn" width="100%" />
 </p>
