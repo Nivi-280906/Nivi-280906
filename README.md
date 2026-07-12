@@ -22,18 +22,7 @@
 
 ## 🚀 About Me
 
-```javascript
-const nivetha = {
-    role: "Full-Stack Developer",
-    education: "B.E. Computer Science and Engineering, 2024 – 2028",
-    institution: "Bannari Amman Institute of Technology",
-    currentlyBuilding: "Veliora — a full-stack project built from the ground up",
-    currentlyLearning: ["React.js", "Advanced Firebase", "SQL"],
-    designTool: "Figma",
-    stack: ["JavaScript", "Node.js", "Firebase", "MongoDB", "HTML5", "CSS3"],
-    philosophy: "Design it in Figma, then ship it in code.",
-};
-```
+
 
 | | |
 |---|---|
@@ -162,12 +151,7 @@ A full-stack certificate management platform with AI-powered verification and re
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nivi-280906&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7CFFB2&icon_color=7CFFB2&text_color=c9d1d9&ring_color=7CFFB2" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivi-280906&layout=compact&hide_border=true&bg_color=0D1117&title_color=7CFFB2&text_color=c9d1d9" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nivi-280906&hide_border=true&background=0D1117&ring=7CFFB2&fire=7CFFB2&currStreakLabel=7CFFB2&sideLabels=7CFFB2&currStreakNum=7CFFB2&sideNums=c9d1d9&dates=c9d1d9" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nivi-280906&hide_border=true&background=0D1117&ring=7CFFB2&fire=7CFFB2&currStreakLabel=7CFFB2&sideLabels=7CFFB2&currStreakNum=7CFFB2&sideNums=7CFFB2&dates=c9d1d9" />
 </p>
 
 <br>
