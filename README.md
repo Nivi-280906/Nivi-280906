@@ -22,19 +22,6 @@
 
 ## 🚀 About Me
 
-```javascript
-const nivetha = {
-    role: "Full-Stack Developer",
-    education: "B.E. Computer Science and Engineering, 2024 – 2028",
-    institution: "Bannari Amman Institute of Technology",
-    currentlyBuilding: "Veliora — a full-stack project built from the ground up",
-    currentlyLearning: ["React.js", "Advanced Firebase", "SQL"],
-    designTool: "Figma",
-    stack: ["JavaScript", "Node.js", "Firebase", "MongoDB", "HTML5", "CSS3"],
-    philosophy: "Design it in Figma, then ship it in code.",
-};
-```
-
 | | |
 |---|---|
 | 🎓 **Education** | B.E. Computer Science and Engineering (2024 – 2028), Bannari Amman Institute of Technology |
@@ -162,7 +149,11 @@ A full-stack certificate management platform with AI-powered verification and re
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nivi-280906&hide_border=true&background=0D1117&ring=7CFFB2&fire=7CFFB2&currStreakLabel=7CFFB2&sideLabels=7CFFB2&currStreakNum=7CFFB2&sideNums=7CFFB2&dates=c9d1d9" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nivi-280906&theme=dracula&hide_border=false&border_radius=10" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nivi-280906&theme=react-dark&bg_color=0D1117&color=7CFFB2&line=7CFFB2&point=ffffff&hide_border=true&area=true" />
 </p>
 
 <br>
