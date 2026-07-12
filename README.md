@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1a3a2e&height=180&section=header&text=Hi,%20I'm%20Nivetha%20K%20%F0%9F%91%8B&fontSize=38&fontColor=7CFFB2&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer&descAlignY=62&descSize=18&descColor=c9d1d9" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1a3a2e&height=150&section=header&text=Hi,%20I'm%20Nivetha%20K%20%F0%9F%91%8B&fontSize=32&fontColor=7CFFB2&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Developer&descAlignY=52&descSize=16&descColor=c9d1d9" width="100%" />
 </p>
 
 <p align="center">
@@ -22,6 +22,18 @@
 
 ## 🚀 About Me
 
+```javascript
+const nivetha = {
+    role: "Full-Stack Developer",
+    education: "B.E. Computer Science and Engineering, 2024 – 2028",
+    institution: "Bannari Amman Institute of Technology",
+    currentlyBuilding: "Veliora — a full-stack project built from the ground up",
+    currentlyLearning: ["React.js", "Advanced Firebase", "SQL"],
+    designTool: "Figma",
+    stack: ["JavaScript", "Node.js", "Firebase", "MongoDB", "HTML5", "CSS3"],
+    philosophy: "Design it in Figma, then ship it in code.",
+};
+```
 
 | | |
 |---|---|
@@ -160,15 +172,6 @@ A full-stack certificate management platform with AI-powered verification and re
 
 <br>
 
-<br>
-
-## 🤝 Let's Connect
-
 <p align="center">
-  <img src="https://img.shields.io/badge/🎨_Designed_in_Figma-F24E1E?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/💻_Shipped_in_Code-7CFFB2?style=for-the-badge&logoColor=0D1117">
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a2e,100:0D1117&height=120&section=footer" width="100%" />
+  <img src="https://img.shields.io/badge/%22I_design_my_products_in_Figma_before_I_write_a_single_line_of_code_for_them.%22-7CFFB2?style=for-the-badge&logoColor=0D1117" alt="proverb">
 </p>
