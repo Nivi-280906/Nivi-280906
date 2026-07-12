@@ -83,76 +83,76 @@ A full-stack certificate management platform with AI-powered verification and re
 
 **Languages**
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=7CFFB2">
-  <img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=7CFFB2">
-  <img src="https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=7CFFB2">
-  <img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=flat-square&logo=cplusplus&logoColor=7CFFB2">
-  <img src="https://img.shields.io/badge/JavaScript_(ES6%2B)-0D1117?style=flat-square&logo=javascript&logoColor=7CFFB2">
+  <img src="https://img.shields.io/badge/Python-7CFFB2?style=for-the-badge&logo=python&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/Java-7CFFB2?style=for-the-badge&logo=openjdk&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/C-7CFFB2?style=for-the-badge&logo=c&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/C%2B%2B-7CFFB2?style=for-the-badge&logo=cplusplus&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/JavaScript_(ES6%2B)-7CFFB2?style=for-the-badge&logo=javascript&logoColor=0D1117">
 </p>
 
 **Web Technologies**
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=7CFFB2">
-  <img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=7CFFB2">
-  <img src="https://img.shields.io/badge/React.js-0D1117?style=flat-square&logo=react&logoColor=7CFFB2">
-  <img src="https://img.shields.io/badge/Responsive_Design-0D1117?style=flat-square&logo=w3c&logoColor=7CFFB2">
-  <img src="https://img.shields.io/badge/Mobile_First_Design-0D1117?style=flat-square&logo=googlechrome&logoColor=7CFFB2">
+  <img src="https://img.shields.io/badge/HTML5-7CFFB2?style=for-the-badge&logo=html5&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/CSS3-7CFFB2?style=for-the-badge&logo=css3&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/React.js-7CFFB2?style=for-the-badge&logo=react&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/Responsive_Design-7CFFB2?style=for-the-badge&logo=w3c&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/Mobile_First_Design-7CFFB2?style=for-the-badge&logo=googlechrome&logoColor=0D1117">
 </p>
 
 **Full-Stack Development**
 <p align="left">
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=7CFFB2">
-  <img src="https://img.shields.io/badge/Express.js-0D1117?style=flat-square&logo=express&logoColor=7CFFB2">
-  <img src="https://img.shields.io/badge/REST_APIs-0D1117?style=flat-square&logo=fastapi&logoColor=7CFFB2">
-  <img src="https://img.shields.io/badge/MVC_Architecture-0D1117?style=flat-square&logo=databricks&logoColor=7CFFB2">
+  <img src="https://img.shields.io/badge/Node.js-7CFFB2?style=for-the-badge&logo=node.js&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/Express.js-7CFFB2?style=for-the-badge&logo=express&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/REST_APIs-7CFFB2?style=for-the-badge&logo=fastapi&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/MVC_Architecture-7CFFB2?style=for-the-badge&logo=databricks&logoColor=0D1117">
 </p>
 
 **Databases**
 <p align="left">
-  <img src="https://img.shields.io/badge/Firebase_Realtime_DB-0D1117?style=flat-square&logo=firebase&logoColor=7CFFB2">
-  <img src="https://img.shields.io/badge/Firebase_Auth-0D1117?style=flat-square&logo=firebase&logoColor=7CFFB2">
-  <img src="https://img.shields.io/badge/Cloudinary-0D1117?style=flat-square&logo=cloudinary&logoColor=7CFFB2">
-  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=7CFFB2">
-  <img src="https://img.shields.io/badge/NoSQL-0D1117?style=flat-square&logo=mongodb&logoColor=7CFFB2">
-  <img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=mysql&logoColor=7CFFB2">
+  <img src="https://img.shields.io/badge/Firebase_Realtime_DB-7CFFB2?style=for-the-badge&logo=firebase&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/Firebase_Auth-7CFFB2?style=for-the-badge&logo=firebase&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/Cloudinary-7CFFB2?style=for-the-badge&logo=cloudinary&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/MongoDB-7CFFB2?style=for-the-badge&logo=mongodb&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/NoSQL-7CFFB2?style=for-the-badge&logo=mongodb&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/SQL-7CFFB2?style=for-the-badge&logo=mysql&logoColor=0D1117">
 </p>
 
 **Design Tools** *(used to design before I code)*
 <p align="left">
-  <img src="https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=7CFFB2">
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-0D1117?style=flat-square&logo=adobephotoshop&logoColor=7CFFB2">
-  <img src="https://img.shields.io/badge/FigJam-0D1117?style=flat-square&logo=figma&logoColor=7CFFB2">
-  <img src="https://img.shields.io/badge/Sketch-0D1117?style=flat-square&logo=sketch&logoColor=7CFFB2">
-  <img src="https://img.shields.io/badge/Zeplin-0D1117?style=flat-square&logo=zeplin&logoColor=7CFFB2">
+  <img src="https://img.shields.io/badge/Figma-7CFFB2?style=for-the-badge&logo=figma&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-7CFFB2?style=for-the-badge&logo=adobephotoshop&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/FigJam-7CFFB2?style=for-the-badge&logo=figma&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/Sketch-7CFFB2?style=for-the-badge&logo=sketch&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/Zeplin-7CFFB2?style=for-the-badge&logo=zeplin&logoColor=0D1117">
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/Wireframing-0D1117?style=flat-square&logo=figma&logoColor=7CFFB2">
-  <img src="https://img.shields.io/badge/Hi--Fi_Prototyping-0D1117?style=flat-square&logo=figma&logoColor=7CFFB2">
-  <img src="https://img.shields.io/badge/User_Research-0D1117?style=flat-square&logo=googleforms&logoColor=7CFFB2">
-  <img src="https://img.shields.io/badge/Usability_Testing-0D1117?style=flat-square&logo=googleforms&logoColor=7CFFB2">
-  <img src="https://img.shields.io/badge/Design_Systems-0D1117?style=flat-square&logo=figma&logoColor=7CFFB2">
-  <img src="https://img.shields.io/badge/Information_Architecture-0D1117?style=flat-square&logo=figma&logoColor=7CFFB2">
+  <img src="https://img.shields.io/badge/Wireframing-7CFFB2?style=for-the-badge&logo=figma&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/Hi--Fi_Prototyping-7CFFB2?style=for-the-badge&logo=figma&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/User_Research-7CFFB2?style=for-the-badge&logo=googleforms&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/Usability_Testing-7CFFB2?style=for-the-badge&logo=googleforms&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/Design_Systems-7CFFB2?style=for-the-badge&logo=figma&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/Information_Architecture-7CFFB2?style=for-the-badge&logo=figma&logoColor=0D1117">
 </p>
 
 **Deployment & Tools**
 <p align="left">
-  <img src="https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=7CFFB2">
-  <img src="https://img.shields.io/badge/GitHub_Pages-0D1117?style=flat-square&logo=github&logoColor=7CFFB2">
-  <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=7CFFB2">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=7CFFB2">
-  <img src="https://img.shields.io/badge/npm-0D1117?style=flat-square&logo=npm&logoColor=7CFFB2">
-  <img src="https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=7CFFB2">
-  <img src="https://img.shields.io/badge/Product_Hunt-0D1117?style=flat-square&logo=producthunt&logoColor=7CFFB2">
+  <img src="https://img.shields.io/badge/Vercel-7CFFB2?style=for-the-badge&logo=vercel&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/GitHub_Pages-7CFFB2?style=for-the-badge&logo=github&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/Git-7CFFB2?style=for-the-badge&logo=git&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/GitHub-7CFFB2?style=for-the-badge&logo=github&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/npm-7CFFB2?style=for-the-badge&logo=npm&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/VS_Code-7CFFB2?style=for-the-badge&logo=visualstudiocode&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/Product_Hunt-7CFFB2?style=for-the-badge&logo=producthunt&logoColor=0D1117">
 </p>
 
 **Core Concepts**
 <p align="left">
-  <img src="https://img.shields.io/badge/Data_Structures-0D1117?style=flat-square&logo=leetcode&logoColor=7CFFB2">
-  <img src="https://img.shields.io/badge/Algorithms-0D1117?style=flat-square&logo=leetcode&logoColor=7CFFB2">
-  <img src="https://img.shields.io/badge/OOP-0D1117?style=flat-square&logo=java&logoColor=7CFFB2">
-  <img src="https://img.shields.io/badge/Agile-0D1117?style=flat-square&logo=jira&logoColor=7CFFB2">
-  <img src="https://img.shields.io/badge/Design_Thinking-0D1117?style=flat-square&logo=figma&logoColor=7CFFB2">
-  <img src="https://img.shields.io/badge/Accessibility_(WCAG_2.1)-0D1117?style=flat-square&logo=w3c&logoColor=7CFFB2">
+  <img src="https://img.shields.io/badge/Data_Structures-7CFFB2?style=for-the-badge&logo=leetcode&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/Algorithms-7CFFB2?style=for-the-badge&logo=leetcode&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/OOP-7CFFB2?style=for-the-badge&logo=java&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/Agile-7CFFB2?style=for-the-badge&logo=jira&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/Design_Thinking-7CFFB2?style=for-the-badge&logo=figma&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/Accessibility_(WCAG_2.1)-7CFFB2?style=for-the-badge&logo=w3c&logoColor=0D1117">
 </p>
 
 <br>
@@ -175,11 +175,11 @@ A full-stack certificate management platform with AI-powered verification and re
 ## 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/nivethak28"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=7CFFB2"></a>
-  <a href="https://behance.net/nivethak28"><img src="https://img.shields.io/badge/Behance-0D1117?style=flat-square&logo=behance&logoColor=7CFFB2"></a>
-  <a href="https://leetcode.com/u/Nivethak280906"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=flat-square&logo=leetcode&logoColor=7CFFB2"></a>
-  <a href="https://hackerrank.com/profile/nivethak_cs24"><img src="https://img.shields.io/badge/HackerRank-0D1117?style=flat-square&logo=hackerrank&logoColor=7CFFB2"></a>
-  <a href="mailto:nnivi2535@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=7CFFB2"></a>
+  <a href="https://linkedin.com/in/nivethak28"><img src="https://img.shields.io/badge/LinkedIn-7CFFB2?style=for-the-badge&logo=linkedin&logoColor=0D1117"></a>
+  <a href="https://behance.net/nivethak28"><img src="https://img.shields.io/badge/Behance-7CFFB2?style=for-the-badge&logo=behance&logoColor=0D1117"></a>
+  <a href="https://leetcode.com/u/Nivethak280906"><img src="https://img.shields.io/badge/LeetCode-7CFFB2?style=for-the-badge&logo=leetcode&logoColor=0D1117"></a>
+  <a href="https://hackerrank.com/profile/nivethak_cs24"><img src="https://img.shields.io/badge/HackerRank-7CFFB2?style=for-the-badge&logo=hackerrank&logoColor=0D1117"></a>
+  <a href="mailto:nnivi2535@gmail.com"><img src="https://img.shields.io/badge/Email-7CFFB2?style=for-the-badge&logo=gmail&logoColor=0D1117"></a>
 </p>
 
 <p align="center">
