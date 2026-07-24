@@ -147,22 +147,8 @@ A full-stack certificate management platform with AI-powered verification and re
 
 <br>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nivi-280906&theme=dracula&hide_border=false&border_radius=10" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nivi-280906&theme=react-dark&bg_color=0D1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&area_color=A78BFA&hide_border=true&radius=16&height=400&custom_title=Nivetha's%20Contribution%20Activity" />
-</p>
-
-<br>
 
 <p align="center">
   <img src="quote.svg" alt="I design my products in Figma before I write a single line of code for them." width="600">
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a3a2e,100:0D1117&height=80&animation=fadeIn" width="100%" />
-</p>
