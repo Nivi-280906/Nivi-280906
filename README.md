@@ -22,18 +22,17 @@
 
 ## 🚀 About Me
 
-
 | | |
 |---|---|
 | 🎓 **Education** | B.E. Computer Science and Engineering (2024 – 2028), Bannari Amman Institute of Technology |
 | 🛠️ **How I Work** | Design the interface in Figma first, then build it myself end-to-end as a full-stack developer |
-| 🌱 **Live Project** | **SkillVault** — a full-stack platform, deployed and in production |
+| 🌱 **Live Projects** | **SkillVault** & **LiveBed** — full-stack platforms, deployed and in production |
 | 🔭 **Building Now** | **Veliora** — a full-stack project built from the ground up |
 | 🎯 **Focus** | Full-Stack Developer roles at product-based companies |
 
 <br>
 
-## 💼 Featured Project
+## 💼 Featured Projects
 
 <table>
 <tr>
@@ -53,7 +52,27 @@ A full-stack certificate management platform with AI-powered verification and re
 - Access-controlled shareable profile links for recruiter-facing credential sharing
 - 5+ organic users post-launch, listed on Product Hunt, indexed on Google within 2 weeks
 
-**[🔗 Live Demo](https://digital-skillvault.vercel.app/)** &nbsp;·&nbsp; **[💻 Source Code](https://github.com/Nivi-280906)**
+**[🔗 Live Demo](https://digital-skillvault.vercel.app/)** &nbsp;·&nbsp; **[💻 Source Code](https://github.com/Nivi-280906/Digital-Skillvault)**
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+### 🏥 LiveBed — Real-Time Healthcare Access Platform
+*Full-Stack Developer · Aug 2026*
+
+A real-time platform connecting patients and hospitals through one live, shared view of hospital bed and department availability — patients search by symptom and book same-day slots, hospitals manage capacity from a live dashboard.
+
+**Stack:** React.js · Node.js · Express.js · MongoDB · Firebase Auth · Vercel
+
+**Highlights**
+- Dual-sided live system: patients search, compare, and book same-day slots drawn from the same pool as walk-ins
+- Hospitals manage departments and mark patients complete/no-show — every action syncs instantly across both views
+- Transactional booking writes in MongoDB with Firebase authentication
+- Validated end-to-end with synthetic hospital data in a controlled test environment
+
+**[🔗 Live Demo](https://livebed.vercel.app/)** &nbsp;·&nbsp; **[💻 Source Code](https://github.com/Nivi-280906/Livebed)**
 
 </td>
 </tr>
@@ -147,8 +166,6 @@ A full-stack certificate management platform with AI-powered verification and re
 
 <br>
 
-
 <p align="center">
   <img src="quote.svg" alt="I design my products in Figma before I write a single line of code for them." width="600">
 </p>
-
